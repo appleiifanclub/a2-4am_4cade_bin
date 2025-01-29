@@ -1,2 +1,2 @@
 # a2-4am_bin
-4am GitHub binary
+This GitHub repository provides binary release from @a2-4am GitHub source
