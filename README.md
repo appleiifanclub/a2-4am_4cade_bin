@@ -2,4 +2,4 @@ This GitHub repository provides binary release from [4cade](https://github.com/a
 
 ![Total Replay Cover Image](https://github.com/appleiifanclub/a2-4am_4cade_bin/blob/53debf60f87fd191601c03b622861dc1335104c0/image/Total%20Replay%20cover.png?raw=true)
 
-![Total Replay build 4571](https://github.com/appleiifanclub/a2-4am_4cade_bin/blob/e348023ad0698f109cb11e4f3e0f3443e554b011/image/Total%20Replay%20build%204571.png?raw=true)
+![Total Replay build 4572](https://github.com/appleiifanclub/a2-4am_4cade_bin/blob/5739ba507090565c72063ca828522d8b987b2f62/image/Total%20Replay%20build%204572.png?raw=true)
